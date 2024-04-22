@@ -1,8 +1,14 @@
 # main.py
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
+from pydantic import BaseModel
 import json
 import short
+import inShort
+import IENews
+# import support
+# from fastapi_utils.tasks import repeat_every
+
 def load_news_data(filename):
   """
   Loads news data from a JSON file.
@@ -27,39 +33,20 @@ def load_news_data(filename):
   except json.JSONDecodeError as e:
     print(f"Error: Failed to parse JSON data. {e}")
     return None
+def writeToJsonFile(jsondata,fileName="news.json"):
+       
+    # Open the file in write mode ("w")
+    with open(fileName, "w") as outfile:
+        # Write the JSON data to the file using json.dump()
+        json.dump(jsondata, outfile, indent=4)  
+        # Add indentation for readability (optional)
 
-def News():
-
-  
-# Example usage
-    filename = 'news.json'
-    news_data = load_news_data(filename)
-
-    if news_data:
-  # Access data using dictionary keys
-  # (Replace 'title' and 'content' with actual keys from your JSON data)
-  # print(news_data['articles'][0]['title'])
-        articles = news_data['articles']
-    # for news_item in articles:
-    #     print(f"Title: {news_item['title']}")
-    #     print(f"Content: {news_item['description']}")
-    #     print("-" * 20)
-    else:
-        print("Error: Could not load news data.")
-    # return articles
-    return short.fetch_html_source()
 
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
-origins = [
-    "http://localhost.tiangolo.com",
-    "https://localhost.tiangolo.com",
-    "http://localhost",
-    "http://localhost:8080",
-    "http://localhost:5173"
-]
+origins = ["*"]
 
 app.add_middleware(
     CORSMiddleware,
@@ -69,6 +56,61 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# @repeat_every(seconds=2)  # 1 hour
+# async def doItS():
+#      writeNewsToJsonFile()
+
+#Current working method But plans to update.
+
+
+#I want to make it a main function to fectch news.
+def res():
+    try:
+      return load_news_data("news.json")
+    finally:
+      print("started fetching news")
+      IENews.get_news()
+   
+   
+
 @app.get("/")
 async def root():
-    return News()
+    return short.fetch_html_sourceIE()
+    
+
+@app.get("/news")
+async def root():
+    
+    return res() 
+#This function is loading news data from news.json and sending as response.
+#File news.json is updated with latest news in a different func.
+
+@app.get("/inshorts")
+async def shorts(count:int=50,category:str="all"):
+    print("get for inshorts")
+    return inShort.getNews(category,count)
+
+@app.get("/showvisits")
+async def showvisits():
+    # print("get for inshorts")
+    val = load_news_data("visits.json")
+    # print(val)
+    return val 
+
+
+class Visits(BaseModel):
+   ip:str | None = None
+   date:str
+   time:str
+   location:str | None = None
+   event:str | None = None
+   app:str
+
+@app.post("/visits")
+async def visits(visits:Visits,request:Request):
+  
+  val = load_news_data("visits.json") 
+  visits.ip = request.client.host 
+  val.insert(0,visits.dict())
+  writeToJsonFile(val,"visits.json")
+  return "200"

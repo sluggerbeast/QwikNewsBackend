@@ -1,0 +1,913 @@
+{
+    "data": {
+        "category_list": [
+            "political-pulse",
+            "sports",
+            "business",
+            "technology",
+            "education"
+        ],
+        "news_list": [
+            {
+                "id": "30611901dcc142279102768e9746db55",
+                "title": "Lok Sabha polls begin tomorrow: 102 seats, 21 states and UTs, 1,625 candidates",
+                "description": "The NDA and the INDIA alliance parties won 48 seats each of these 102 in the 2019 polls; Tamil Nadu, Uttarakhand to complete polling",
+                "urlToImage": "https://images.indianexpress.com/2024/04/data-pack.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/lok-sabha-polls-1st-phase-seats-states-uts-candidates-9277929/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "64e40287757e4c9090bb6de44d314ad5",
+                "title": "Layers of faultlines in Uttarakhand politics: Brahmins to Thakurs, Dalits to Muslims, Kumaon to Garhwal",
+                "description": "The numerical dominance of Thakurs and Brahmins, and their divide, lead to a delicate balance of power, with both BJP and Cong having consistently picked a CM from either of the two communities.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/uttarakhand.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/faultlines-uttarakhand-politics-brahmins-thakurs-dalits-muslims-kumaon-garhwal-9277877/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "5c7973c8aab847aba1a0d52203f2de43",
+                "title": "K C Venugopal returns to Kerala fray as Congress looks to settle score with CPI(M) in prestige battle",
+                "description": "Alappuzha is the only seat out of Kerala's 20 which Cong-led UDF lost in 2019; this time BJP has fielded its firebrand leader Sobha Surendran while CPI(M) has retained its sitting MP.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/1-2024-04-18T152725.774.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/kc-venugopal-kerala-congress-cpim-lok-sabha-polls-9277587/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "3cf182bc01704606bfbda06ee594be4f",
+                "title": "In Uttarakhand villages, defence dreams dented by Agnipath concerns, but BJP remains a \u2018clear choice\u2019",
+                "description": "In its Lok Sabha poll campaign, state Cong has raked up Agnipath to attack BJP, but the issue has not found traction as the party failed to build it up",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Shah.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/uttarakhand-villages-agnipath-bjp-lok-sabha-polls-9277062/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "2aeb447d857e4d47927ada900424e0d8",
+                "title": "In three-way Tamil Nadu battle, DMK in pole position amid challenge from AIADMK, BJP",
+                "description": "DMK\u2019s confidence stems from Stalin\u2019s 'successful steering' of its alliance; the party faces tough fights with AIADMK in West TN and with BJP in Theni and Coimbatore",
+                "urlToImage": "https://images.indianexpress.com/2024/04/m-k-stalin_20240418023811.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/in-three-way-tamil-nadu-battle-dmk-in-pole-position-amid-challenge-from-aiadmk-bjp-9276758/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "830b3d0c16944a7bbf5c2983c69e53ed",
+                "title": "In Bengal battle round 1, TMC hopes to set the pace, retake north Bengal from BJP",
+                "description": "Three seats up for polls on April 19 were all won by BJP in 2019, which TMC has been trying to wrest to gain upper hand in the region",
+                "urlToImage": "https://images.indianexpress.com/2024/04/votersp.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/tmc-bjp-face-acid-test-in-north-bengal-as-first-phase-sets-tone-for-long-face-off-9276352/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "914bb98928264fdab38e059382094873",
+                "title": "Today in Politics: Campaign focus shifts to second phase; Amit Shah to hold roadshows, rally in Gandhinagar before filing nomination",
+                "description": "Rahul will address three rallies in Kerala; KCR to go into huddle with BRS candidates to discuss Telangana strategy",
+                "urlToImage": "https://images.indianexpress.com/2024/04/PTI04_16_2024_000330B.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/today-in-politics-campaign-second-phase-amit-shah-roadshows-rally-gandhinagar-nomination-9276699/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "26ad4dc8c50c4eda8e2797f4ba76feb4",
+                "title": "In Tamil Nadu, BJP faces the twin trust deficit hurdle: resources and representation",
+                "description": "The delimitation exercise could substantively expand the Lok Sabha strength based on demographic changes in the states.The likelihood that southern states will have a relatively lesser voice compared with Uttar Pradesh and Bihar post delimitation certainly doesn\u2019t ring a bell among voters in Tamil Nadu.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/pm-modi-5-1.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/tamil-nadu-bjp-lok-sabha-elections-9276684/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "dc48a6f31e1745a6b11f92aed3ae25d3",
+                "title": "Fatehpur Sikri: BJP MLA turns rebel, fields son against party nominee",
+                "description": "MLA says his son is the \u2018candidate of people as he was selected through consensus\u2019",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Babulal-2coel.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/fatehpur-sikri-bjp-mla-turns-rebel-fields-son-against-party-nominee-9276643/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "525460c169964e8bae74d39568b63864",
+                "title": "Jat rumblings to anti-incumbency: Congress hopes Rajasthan halts a run",
+                "description": "In Churu and Nagaur, Jats have kept both the parties guessing. Both the BJP and Congress have fielded Jats from the two seats.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/congress_96b819.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/jat-rumblings-to-anti-incumbency-congress-hopes-rajasthan-halts-a-run-9276503/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "841e8a0684fc417ab210f22897995df5",
+                "title": "\u2018Our identity, our land, our jobs\u2019: Backed into a corner, Mehbooba Mufti sets the campaign tone",
+                "description": "The former CM and PDP chief started her campaign from south Kashmir\u2019s Pulwama and Shopian districts, which have seen little political activity since Article 370 was abrogated",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Mehbooba-Mufti-2.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/kashmir-mehbooba-mufti-sets-campaign-tone-9276095/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "71c8468f11da4ed2b43eac11a6d6ac7b",
+                "title": "Ashok Chavan: \u2018Congress leadership\u2019s knowledge of what\u2019s happening in Maharashtra is questionable. Unfortunately, people like Nana Patole have made a mess\u2019",
+                "description": "'These are untested waters. For years, I have worked with people under different circumstances. How they react, what they do, is a test for us too,\u2019 BJP MP and ex-Cong CM tells The Indian Express",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Ashok-Chavan-1.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/ashok-chava-bjp-ed-congress-election-9276036/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "765aa051c165478fbc5c6d73c536fd94",
+                "title": "A second seat for Naveen Patnaik: Why BJD chief has chosen to contest from western Odisha",
+                "description": "As BJP makes inroads into the state, BJD leaders say Patnaik wants to send a message to the voters that he is committed to the region",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Naveen_52738b.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/naveen-patnaik-kantabanji-western-odisha-assembly-elections-9275863/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "52afde7eb8a2465383d24637bba9b7f9",
+                "title": "Who is Fazilpuria, the JJP candidate from Gurgaon no stranger to controversies?",
+                "description": "Rahul Yadav Fazilpuria will take on Gurgaon\u2019s five-time MP and BJP stalwart Rao Inderjit Singh",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-2024-04-17T163342.972.jpeg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/fazilpuria-jjp-candidate-in-gurgaon-9274289/",
+                "category": "political-pulse",
+                "date": "April 18"
+            },
+            {
+                "id": "cb6b1c10b0e24654b88ad69f65fa920f",
+                "title": "In Nagaur, Vasundhara Raje confidant Yunus Khan holds the key as BJP candidate faces uphill battle against Beniwal",
+                "description": "As Jat votes are likely to be split evenly between BJP\u2019s Jyoti Mirdha and INDIA\u2019s Beniwal, Muslims and Meghwals would be the clincher with BJP trying to placate ex-party leader Yunus to get Muslim votes",
+                "urlToImage": "https://images.indianexpress.com/2024/04/collage_cf0089.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/in-nagaur-raje-confidant-yunus-khan-holds-the-key-as-bjp-candidate-faces-uphill-battle-against-beniwal-9275228/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "c1a07f56ebc24cb888549b5009991b42",
+                "title": "\u2018Why should I counter BJP on tukde-tukde? Lies need not be countered\u2019: Kanhaiya Kumar",
+                "description": "Congress North East Delhi seat pick says that while he had also been preparing for Begusarai seat, it had to give in to coalition constraints; plays down talk of him becoming Delhi Congress chief",
+                "urlToImage": "https://images.indianexpress.com/2024/04/PTI04_05_2024_000293A.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/kanhaiya-kumar-interview-delhi-lok-sabha-elections-tukde-tukde-bjp-9274936/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "c70f27fb51b247e4adccb0be36d2011c",
+                "title": "In Coimbatore, amid Annamalai buzz, Dravidian parties say it\u2019s their battle to lose",
+                "description": "While DMK banks on the support of allies and minority voters, AIADMK candidate drawing strength from his father and late MLA \u201cSingai\u201d Govindaraju\u2019s legacy",
+                "urlToImage": "https://images.indianexpress.com/2024/04/annamalai-pulse.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/coimbatore-annamalai-buzz-dravidian-parties-battle-9274625/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "8722d220b4f84b6fa636a6eed9e54c27",
+                "title": "As both NDA and INDIA play the micro caste game in Bihar, 1+1 isn\u2019t always 2",
+                "description": "While BJP perfected the art of reaching out to small groups, RJD has disturbed the equations by widening its MY plank. Meanwhile, no one talks of a caste census",
+                "urlToImage": "https://images.indianexpress.com/2024/04/1_cf3112.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/nda-india-alliance-micro-caste-game-bihar-9274651/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "58781de077da49ee8c87331e1b3bfc08",
+                "title": "Today in Politics: Campaign to end for phase 1 LS polls, PM Modi in northeast, Rahul to hold 2 rallies in Karnataka",
+                "description": "Rajnath to participate in three public meetings across Kerala while Priyanka to address rally in support of party candidate in Saharanpur",
+                "urlToImage": "https://images.indianexpress.com/2024/04/modi-rahul-2.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/lok-sabha-polls-phase-one-pm-modi-rahul-gandhi-congress-bjp-9274610/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "a3bea24ba8a74cc98b14c81b50dadf28",
+                "title": "Jailed strongman Dhananjay Singh\u2019s wife is BSP\u2019s surprise pick for Jaunpur LS seat: Who is Srikala Reddy Singh?",
+                "description": "Srikala, whose family hails from Telangana, did her schooling in Chennai and is an architect by profession",
+                "urlToImage": "https://images.indianexpress.com/2024/04/dhananjay.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/who-is-srikala-reddy-singh-bsp-jaunpur-lok-sabha-seat-9274611/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "49e386defa214dbca81b0ad912e66a49",
+                "title": "Gaurav Gogoi in a prestige fight in Jorhat, on the other side, Himanta Biswa Sarma leads the fight",
+                "description": "Senior Congress leader leans on the legacy of his father Tarun Gogoi, who thrice represented the upper Assam seat; BJP banks on organisational prowess, Ahom pride",
+                "urlToImage": "https://images.indianexpress.com/2024/04/pulse_fd7813.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/gaurav-gogoi-in-a-prestige-fight-in-jorhat-on-the-other-side-himanta-biswa-sarma-leads-the-fight-9274609/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "0ee8ee124378458c817d2b59d26753de",
+                "title": "Decode Politics: As searches of Rahul Gandhi and Abhishek Banerjee\u2019s choppers stir up a storm, what do EC rules say?",
+                "description": "An IAS officer was suspended by EC for ordering search of PM Modi\u2019s helicopter ahead of 2019 polls, which was later revoked following CAT's ruling",
+                "urlToImage": "https://images.indianexpress.com/2024/04/rahul-gandhi-chopper-search.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/rahul-gandhi-abhishek-banerjee-choopers-searches-ec-rules-9274175/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "0b069fc3b7674530be1bc944c38a76d0",
+                "title": "In TMC\u2019s Diamond Harbour bastion, BJP pitches old-timer \u2018Bobby da\u2019 against Abhishek Banerjee",
+                "description": "BJP ex-South 24 Parganas district chief Abhijit Das, known as 'Bobby da' among party workers, had lost from the high-profile seat in 2009 and 2014",
+                "urlToImage": "https://images.indianexpress.com/2024/04/abhijit-das-abhishek-banerjee.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/bjp-diamond-harbour-candidate-abhijit-das-bobby-da-tmc-abhishek-banerjee-9274055/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "eb4cdded262e4c4c8f0f920fc16f84a1",
+                "title": "PM Modi leads counter to Opposition claims: \u2018NDA respects Constitution\u2026 Even Babasaheb can\u2019t change it\u2019",
+                "description": "BJP has complained to EC against Rahul Gandhi's remarks; party wary of fallout especially among Dalits if allegations of changes in Constitution take off",
+                "urlToImage": "https://images.indianexpress.com/2024/04/modi-constitution.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/pm-modi-opposition-constitution-change-claims-9273959/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "60acf27e13f24c1380ee470d9b2202f5",
+                "title": "In Rajasthan farmer belt parallel to Punjab, anger still simmers against BJP",
+                "description": "Party performed badly in recent Assembly polls in Ganganagar, which saw large farm protests; the BJP candidate says \u201cthe party won't repeat its mistakes\u201d",
+                "urlToImage": "https://images.indianexpress.com/2024/04/priyanka-balan.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/political-pulse/rajasthan-ganganagar-seat-bjp-anger-9273876/",
+                "category": "political-pulse",
+                "date": "April 17"
+            },
+            {
+                "id": "723f3f36c8e34175a8b207e132bf9f23",
+                "title": "PBKS vs MI Live Score, IPL 2024: Toss, team news coming up soon from Mullanpur; Punjab Kings take on Mumbai Indians",
+                "description": "Punjab Kings vs Mumbai Indians Live Score, IPL 2024: Sam Curran's Punjab Kings will take on Hardik Pandya's Mumbai Indians at the Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur on Thursday.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/IPL-2024_PBKS-vs-MI_M33-01.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/cricket/pbks-vs-mi-live-score-ipl-2024-match-33-today-punjab-kings-vs-mumbai-indians-scorecard-updates-9277300/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "69c62eed3d494cdba376e7a8e418c8a2",
+                "title": "Indian wrestlers Deepak Punia and Sujeet Kalkal \u2018sleeping on the floor of Dubai airport\u2019 after being stranded while enroute to Bishkek for Paris Olympics qualifiers",
+                "description": "Deepak Punia and Sujeet Kalkal, along with their coach and physio, \u2018have also not been able to eat proper food\u2019 for the last two days because flights have been cancelled due to flooding in Dubai; Weigh ins are at 8am local time on Friday in Bishkek.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Deepak-Punia.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/sport-others/indian-wrestlers-deepak-punia-and-sujeet-kalkal-dubai-airport-paris-olympics-9277674/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "8fc39877a5c0428ab00c40b931879539",
+                "title": "Athletics: Long jumper Sreeshankar out of 2024 Olympics \u2013 \u2018In what feels like a nightmare, but is a reality, my Paris dream is over\u2019",
+                "description": "Sreeshankar suffered a knee injury during training which requires surgery.",
+                "urlToImage": "https://images.indianexpress.com/2024/02/SREESHANKAR-MURALI-CROP.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/sport-others/athletics-long-jumper-sreeshankar-out-of-2024-olympics-in-what-feels-like-a-nightmare-but-is-a-reality-my-paris-dream-is-over-9277473/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "6a881fa1c8ec4ddba9c519cafb54ab0a",
+                "title": "Devon Conway ruled out for IPL 2024, here\u2019s who CSK have named as replacement",
+                "description": "England seamer Glesson has replaced Devon Conway in the Chennai Super Kings squad.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Englands-Richard-Gleeson-celebrates-a-wicket-against-India-in-the-second-T20I-at-Edgbaston.-twitter-Cricket-England.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/ipl-2024-richard-glesson-whose-first-two-t20is-wickets-are-rohit-sharma-and-virat-kohli-joins-csk-9277443/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "6a1a5017737d4b029cce9596586c34e1",
+                "title": "LSG vs CSK 2024, IPL Live Streaming: When and where to watch Lucknow Super Giants vs Chennai Super Kings match free",
+                "description": "Lucknow Super Giants vs Chennai Super Kings Live Streaming, IPL 2024: Lucknow Super Giants will take on Chennai Super Kings in match no 34 of the Indian Premier League at the Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium in Lucknow.",
+                "urlToImage": "https://images.indianexpress.com/2024/03/MS-Dhoni-Ruturaj-and-Jadeja.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/lsg-vs-csk-2024-ipl-live-streaming-match-34-9277365/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "98a360cace084f7aaca29257e44b7063",
+                "title": "Rohit Sharma on playing a Test series against Pakistan: \u2018It will be a great contest\u2019",
+                "description": "Team India captain Rohit says he would love to see India and Pakistan play series regularly an not only in the ICC tournaments.",
+                "urlToImage": "https://images.indianexpress.com/2024/01/babar-rohit.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/cricket/rohit-sharma-says-yes-to-a-regular-series-with-babar-azams-pakistan-cricket-team-9277158/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "06e6b6e4a93b41b98e4f63be05d14f1f",
+                "title": "Dinesh Karthik or MS Dhoni for T20 World Cup? Captain Rohit Sharma has his say",
+                "description": "Rohit Sharma says it will be hard to convince for MS Dhoni for the T20 World Cup as he is sick and tired but Dinesh Karthik will be easier to convince.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Rohit-and-MS.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/rohit-sharma-ms-dhoni-t20-world-cup-rishabh-pant-9277040/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "d4a2a66365344730a82ffd767f485015",
+                "title": "Rohit Sharma says he is not a big fan of \u2018Impact player rule,\u2019 explains why it is not helping the Indian cricket",
+                "description": "The India captain says the likes of Washington Sundar and Shivam Dube not getting to bowl in the IPL is not an ideal scenario for the Indian cricket.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Rohit-Sharma-vs-CSK.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/rohit-sharma-says-not-a-big-fan-of-impact-rule-and-explains-why-it-is-not-helping-the-indian-cricket-9276975/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "894187f50fbc4d7ea069a679cea7c86c",
+                "title": "Why Rohit Sharma is not staying with his Mumbai Indians teammates in home matches",
+                "description": "During Mumbai Indians homes matches, Rohit Sharma is not staying at the team hotel but instead he is spending time with his family at his home in Mumbai.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Sharma-24.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/why-rohit-sharma-is-not-staying-with-his-mumbai-indians-teammates-in-home-matches-9276905/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "8fbae857e94941a5af1a3968b5d59e2c",
+                "title": "PBKS vs MI 2024, IPL Match Today: Playing XI prediction, head-to-head stats, key players, pitch report and weather update",
+                "description": "Punjab Kings vs Mumbai Indians, IPL 2024: Here's a look at the Playing XI prediction, head-to-head stats, venue records, pitch and weather updates of the PBKS vs MI clash at the Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Arshdeep-Surya-and-Tilak.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/pbks-vs-mi-2024-ipl-match-today-overview-weather-report-head-to-head-key-players-to-watch-pitch-report-venue-details-9276830/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "3a2c1b7078fb4e279c546ed4a334ecf8",
+                "title": "Candidates chess results and standings after Round 11: Ian Nepomniachtchi beats Vidit Gujrathi to take sole lead leaving Gukesh in 2nd spot",
+                "description": "The clash between Praggnanandhaa and Hikaru Nakamura ended in defeat for the 18-year-old from India as the American continued his remarkable resurgence",
+                "urlToImage": "https://images.indianexpress.com/2024/04/VIDIT-LOSES-TO-NEPO-CROP-B.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/chess/candidates-chess-results-standings-round-11-ian-nepomniachtchi-vidit-gujrathi-lead-gukesh-9276670/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "01f838f33c304b35a093bd0706d75d01",
+                "title": "Rishabh Pant was fantastic behind the stumps but here\u2019s what else stood out in DC\u2019s big win at Narendra Modi Stadium",
+                "description": "Emotional Rollercoaster: Delhi Capitals defeat Gujarat Titans by 6 wickets.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/GT-DC.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/gt-vs-dc-abishek-porels-ishant-sharma-sandeep-warrier-ipl-2024-9276434/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "1498200f999b433aa429ae725eef4727",
+                "title": "Rishabh Pant leads from behind the stumps in Delhi Capitals\u2019 massive win vs GT in Ahmedabad",
+                "description": "Rishabh Pant effected four dismissals as Delhi Capitals bowled out Gujarat Titans for 89, the lowest total of the season, and overhauled the target with 67 balls to spare.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/New-Project-2024-04-18T000510.344.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/ipl-2024-gt-vs-dc-rishabh-pant-keeping-captaincy-win-ahmedabad-9276428/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "9446f802faa04efb969f6718dccd9cfd",
+                "title": "Chess Candidates 2024 Live: Nepomniachtchi beats Vidit Gujrathi to take sole lead;  Gukesh draws; Pragg loses",
+                "description": "Chess Candidates 2024 Live Updates, Round 11 Today: Heading into Round 11, 17-year-old Gukesh and Ian Nepomniachtchi were on top on the leaderboard. However, that changed after Gukesh was held to a draw and Nepo won.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/VIDIT-LOSES-TO-NEPO-CROP.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/chess/chess-candidates-2024-live-updates-round-11-today-gukesh-pragg-vidit-9275999/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "de50ae2b7f96452cacd6f60d3631da47",
+                "title": "IPL 2024 Points Table update: Delhi Capitals rise to 6th while Gujarat Titans go down to 7th",
+                "description": "IPL 2024 Points Table: Rajasthan Royals and Kolkata Knight Riders still leading the charts at 1st and 2nd position respectively",
+                "urlToImage": "https://images.indianexpress.com/2024/04/GT-DC-Points.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/ipl-2024-points-table-update-dc-5th-gt-7th-9275747/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "1d8f0cf9e1b64da68fe5e9d546321a93",
+                "title": "IPL 2024 Purple Cap: Khaleel Ahmed rises to 3rd after Gujarat Titans vs Delhi Capitals",
+                "description": "IPL 2024 Purple Cap Holder: Khaleed Ahmed rose up to third in the Purple Cap table after his 1 wicket against the Gujarat Titans",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Khaleel.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/ipl-2024-purple-cap-khaleel-ahmed-gt-vs-dc-9275765/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "8da85da944a34b839016a342138725d5",
+                "title": "IPL 2024 Orange Cap: Shubman Gill edges out Rohit Sharma to enter Top 5, Virat Kohli still leads",
+                "description": "IPL 2024 Orange Cap Holder:  Shubman Gill edged out Rohit Sharma in the Orange Cap race to get into the Top 5 even after scoring just 8 against the Delhi Capitals",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Gill-22.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/ipl-2024-orange-cap-shubman-gill-rohit-sharma-virat-kohli-gt-vs-dc-9275778/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "45257999be6a4b03836d20d918b7f88e",
+                "title": "IPL Lowest Total: Where does Gujarat Titans\u2019 89 all out vs Delhi Capitals rank in list of lowest ever IPL scores",
+                "description": "IPL 2024: From Royal Challengers Bengaluru to Gujarat Titans, here is a look at the lowest score ever in IPL history.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/DC-GT.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/ipl-lowest-total-full-list-gujarat-titans-delhi-capitals-9276126/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "6bbdc5502f2345668ae212868656eed8",
+                "title": "Sakshi Malik included in TIME magazine\u2019s list of 100 most influential people of 2024",
+                "description": "Sakshi, India's only female Olympic medallist in wresting, has been honoured for her relentless fight against alleged sexual harassment of female wrestlers by former Wrestling Federation of India president Brij Bhushan Sharan Singh.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Sakshi-3.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/sport-others/sakshi-malik-time-magazine-100-most-influential-people-9276100/",
+                "category": "sports",
+                "date": "April 17"
+            },
+            {
+                "id": "ba9c41bc2252448288fbd638b9cc29e6",
+                "title": "What was Suresh Raina\u2019s one word response on whether MS Dhoni will play after this season\u2019s IPL?",
+                "description": "In the six games CSK have played so far, Dhoni has 59 runs to his name \u2013 57 off which have come off two innings (Delhi and Mumbai).",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Dhoni.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/ms-dhoni-suresh-raina-response-last-ipl-season-2024-future-9275907/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "824b7daa43d6449b9686b480603a7f58",
+                "title": "Hardik Pandya, Shivam Dube & Rinku Singh: They have skills but can they be India\u2019s finishers at T20 World Cup?",
+                "description": "The players who are contenders for the finishing role for India are playing in the middle order in the IPL. And who will go as wicketkeeper if India don\u2019t want Dinesh Karthik?",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Hardik-Dube-Rinku.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/cricket/hardik-pandya-shivam-dube-rinku-singh-india-finisher-t20-world-cup-9275793/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "0694fb015c8c4b5387d525bfc2bf2e93",
+                "title": "GT vs DC HIGHLIGHTS, IPL 2024: Delhi crush Gujarat by six wickets as bowlers dominate in Ahmedabad",
+                "description": "Gujarat Titans vs Delhi Capitals Highlights, IPL 2024: Rishabh Pant's DC beat Shubman Gill's by six wickets in a 90-run chase, reaching the target in only 8.5 in Ahmedabad.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/IPL-2024_GT-vs-DC_M32-01.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/cricket/gt-vs-dc-live-score-ipl-2024-match-32-today-gujarat-titans-vs-delhi-capitals-scorecard-updates-9275216/",
+                "category": "sports",
+                "date": "April 17"
+            },
+            {
+                "id": "36892b544c92478d9c88fc9888317860",
+                "title": "Not El Clasico or Manchester derby, here\u2019s how City vs Real Madrid has become the new big rivalry in European football",
+                "description": "An old powerhouse against the modern giants, governed by two of the sharpest football minds, makes for the inevitable compilation of \u2018spectacular games\u2019.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Madrid-vs-City-rivalry.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/football/el-clasico-manchester-city-real-madrid-rivalry-champions-league-quarter-final-ucl-9275341/",
+                "category": "sports",
+                "date": "April 18"
+            },
+            {
+                "id": "eac8d906db9e4b3289455a5477bc1ff2",
+                "title": "PBKS vs MI 2024, IPL Live Streaming: When and where to watch Punjab Kings vs Mumbai Indians live for free?",
+                "description": "Punjab Kings vs Mumbai Indians Live Streaming, IPL 2024: The Indian Express gives all the details of the clash between Punjab Kings and Mumbai Indians on Thursday at Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur in Chandigarh",
+                "urlToImage": "https://images.indianexpress.com/2024/04/pbks-vs-mi.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/pbks-vs-mi-2024-ipl-live-streaming-when-and-where-to-watch-punjab-kings-vs-mumbai-indians-live-for-free-9274970/",
+                "category": "sports",
+                "date": "April 17"
+            },
+            {
+                "id": "29fcdd848c6f49139c3ad2c12443d8c9",
+                "title": "Watch: Kolkata Knight Riders co-owner Shah Rukh Khan\u2019s heartwarming speech in changing room after losing close game against Rajasthan Royals",
+                "description": "IPL 2024: In a thrilling encounter Jos Buttler's century took Rajasthan Royals to win by two wickets off the final ball against Kolkat Knight Riders at the Eden Gardens on Tuesday",
+                "urlToImage": "https://images.indianexpress.com/2024/04/shah-rukh-khan-buttler.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/sports/ipl/shah-rukh-khan-kkr-vs-rr-ipl-2024-9274973/",
+                "category": "sports",
+                "date": "April 17"
+            },
+            {
+                "id": "78a8b6f929b14239b1d2615dcc9dbf11",
+                "title": "Reduced added sugar by 30% in baby food products in last 5 years: Nestle India",
+                "description": "According to findings by Swiss NGO, Public Eye and International Baby Food Action Network (IBFAN), Nestle sold baby products with higher sugar content in less developed South Asian countries including India, and African and Latin American nations as compared to its markets in Europe.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T170744.023.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/companies/nestle-india-reduce-added-sugar-baby-food-products-9277891/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "4fd5ddcb583b4c5e9dae8871ffb12e1e",
+                "title": "Discomfited, annoyed by demand that RBI should be cheerleader for Govt: Former Governor",
+                "description": "Duvvuri Subbarao, who worked in both the government and the RBI, has said, \u201cThere is little understanding and sensitivity within the government on the importance of central bank autonomy.\"",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T153239.008.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/rbi-reserve-bank-of-india-governor-duvvuri-subbarao-book-government-9277696/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "213ed01eaf7a459c9b5daa59f8e95934",
+                "title": "Swiggy to integrate Instamart with online retail platform Mall",
+                "description": "Swiggy Mall, which is currently operational in parts of Bengaluru, marked the company's foray into online retail.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T151243.776.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/companies/swiggy-integrate-instamart-with-swiggy-mall-9277651/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "37a2038549294579812fa235e421e2c5",
+                "title": "Heating equipment maker JNK India to open Rs 650 crore IPO on April 23",
+                "description": "The initial share-sale will be open for public subscription during April 23-25 and the bidding for anchor investors will open for a day on April 22, the company said in a statement.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T135050.374.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/market/ipo-initial-public-offering-jnk-india-bse-nse-9277421/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "0b96b1c9102c4b9bab59e37d35cb6270",
+                "title": "Volumes of domestic mining, construction equipment industry may drop in FY25: Report",
+                "description": "\"ICRA expects FY2025 to see a 12-15 per cent year-on-year decline (which translates into volumes of 1.14-1.18 lakh units),\" the rating agency said in a statement.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T132114.638.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/domestic-mining-construction-equipment-industry-fy25-icra-9277352/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "23d482937e714ee0b3767e7f99cb0888",
+                "title": "MG Motor ties up with Epsilon Group for EV charging solutions, battery recycling",
+                "description": "As per the agreement, Power EV will provide Custom Charging technology to develop AC and DC charging solutions for charging solutions for MG's EVs.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T125504.587.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/mg-motor-tie-with-epsilon-group-ev-charging-battery-recycling-9277281/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "63570d9bd8e64deda853ca4610d47314",
+                "title": "Flight operations from India to Dubai disrupted amid adverse weather conditions",
+                "description": "India\u2019s largest flight operator in terms of passenger volume, IndiGo, cancelled several of its flights to the desert kingdom. Similarly, Tata group-owned Air India, which operates 72 weekly flights from various cities to Dubai, cancelled its services",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T123653.366.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/aviation/dubai-flood-flight-cancellation-news-uae-weather-condition-9277261/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "d2a85356329d4c97bae03461ffc3b01a",
+                "title": "Bandhan Bank shares advance 1% after hitting lows in previous session",
+                "description": "The shares have witnessed a downward trajectory since bank's MD and CEO Chandra Shekhar Ghosh announced his retirement from the top post upon completion of his current tenure on July 9, 2024.",
+                "urlToImage": "https://images.indianexpress.com/2023/01/Chandra-Shekhar-Ghosh.jpeg?resize=270,152",
+                "url": "https://indianexpress.com/article/business/market/bandhan-bank-share-price-advance-md-ceo-chandra-shekhar-ghosh-9277050/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "bdf76252b7064880bee514e30b050fe2",
+                "title": "Sensex, Nifty rebound in early trade after three sessions of decline",
+                "description": "The 30-share BSE Sensex climbed 310.82 points to 73,254.50 in early trade. The NSE Nifty went up by 122.75 points to 22,270.65.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T105359.741.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/market/sensex-nifty-rebound-in-early-trade-after-three-sessions-of-decline-9277019/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "f0a475f715144d919e493fb9a876653d",
+                "title": "Rupee rises 12 paise to 83.49 against US dollar",
+                "description": "At the interbank foreign exchange market, the local unit opened at 83.51 against the greenback. It later touched 83.49 in initial trade, registering a rise of 12 paise from its previous close.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T102616.437.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/market/rupee-against-us-dollar-dollar-index-9276980/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "a10ba62564904027ba34367206149807",
+                "title": "Stock Market Today Highlights: Sensex slips 450 pts, Nifty settles below 22,000 mark",
+                "description": "Stock Market Live: After opening in green territory, BSE Sensex and Nifty 50 gave up all gains in a highly volatile session. The indices finally settled in red territory.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-18T091318.494.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/market/stock-market-today-live-updates-sensex-nifty-oil-price-rupee-us-dollar-9276856/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "683f5e6807844629b3476c5f2dfe8850",
+                "title": "SBI yet to submit bill for 8,350 electoral bonds: Govt",
+                "description": "Moreover, the government may have to shell out Rs 43.90 lakh to SBI for the 30th phase of the electoral bond sale in January this year.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/sbi-1200-1.jpeg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/banking-and-finance/sbi-yet-to-submit-bill-for-8350-electoral-bonds-govt-9276455/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "63a9240ae742479c8c647a1319ce0bda",
+                "title": "Adani family infuses additional Rs 8,339 crore into Ambuja Cements; hikes stake to 70.3%",
+                "description": "With the current round of capital infusion, the promoters have increased their stake in Ambuja Cements by a further 3.6 per cent to 70.3 per cent, the company said in a release.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Adani.jpeg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/companies/adani-family-infuses-additional-rs-8339-crore-into-ambuja-cements-hikes-stake-to-70-3-9276451/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "22410507fb4044f3863e8b826fa749ac",
+                "title": "Tesla again seeks shareholder approval for Musk\u2019s 2018 pay voided by judge",
+                "description": "The re-vote comes ahead of next week's quarterly earnings for Tesla, which is grappling with weak demand as well as a reputational hit to Musk from his political leanings and approval of an antisemitic conspiracy theory last year.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-2024-04-17T193443.841-1.jpeg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/tesla-shareholder-approval-musk-2018-pay-voided-by-judge-9276299/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "01aefe327481471bbffce3253c9b5faf",
+                "title": "IMF calls for fiscal restraint in year with most elections ever",
+                "description": "A record 88 countries, home to more than half of the world's population, have held or are holding national elections in 2024, the IMF said, noting that governments tend to spend more and tax less during election years.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-2024-04-17T210241.360.jpeg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/imf-fiscal-restraint-in-year-with-most-elections-ever-9276175/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "ee77efe083f7460f899bb8e6941b2eb1",
+                "title": "Ahead of Elon Musk visit, Finance Ministry notifies new rules backing FDI tweaks for space sector",
+                "description": "Manufacturing of components and systems or sub-systems for satellites, ground segment and user segment will be fully under the 100 per cent automatic route, the ministry said.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-2024-04-17T193443.841.jpeg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/musk-india-visit-rules-fdi-space-sector-9276071/",
+                "category": "business",
+                "date": "April 18"
+            },
+            {
+                "id": "51d3e2d0842d43e18aa4bf1d80414e0c",
+                "title": "Tesla\u2019s Elon Musk likely to unveil $2-3 billion investment during India visit: Report",
+                "description": "Elon Musk will meet Modi on Monday during his India trip, when the billionaire is expected to unveil his plans to enter the world's third-largest auto market where electric car adoption is still in its infancy.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-17T165336.828.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/tesla-elon-musk-likely-to-unveil-investment-during-india-visit-narendra-modi-9275760/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "9158370ecb774bf6bff1e1ac51b4379e",
+                "title": "Power Grid Corporation board approves plan to raise Rs 12,000 crore via bonds",
+                "description": "Power Grid Corporation is the country's largest electric power transmission utility. It operates 86 per cent of Inter-Regional networks.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-17T153635.677.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/companies/power-grid-corporation-fundraise-via-bonds-9275368/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "9890fbf5c31040f0920412ec1310c610",
+                "title": "MG Motor India plans to expand network in tier III, IV to drive next phase of growth",
+                "description": "As part of that, the company has set plans for enhancing production capacity and more model introduction going forward, he added.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-17T150222.643.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/mg-motor-india-plans-to-expand-network-jsw-group-9275443/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "5b51616cd49f48a9bbbe4fe441b76b7a",
+                "title": "IIFL Finance to raise $152 million via rights issue amid ban on gold loans",
+                "description": "In mid-March, IIFL had said it would raise up to 15 billion rupees via a rights issue, which gives preferential treatment to existing shareholders, but had not finalised the amount.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-17T134502.493.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/companies/iifl-finance-gold-loan-share-sale-rights-issue-rbi-9275271/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "ed7c925a05ba491da4f378c9cb0d2942",
+                "title": "Japan\u2019s Nikkei settles below 38,000 points for first time since February",
+                "description": "The Nikkei finished down 1.3% at 37,961.80, its lowest closing level since Feb. 14, and was on track for its biggest weekly loss since December 2022. The broader Topix declined 1.3% to 2663.15.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-17T124919.257.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/market/japan-nikkei-settles-for-first-time-since-february-9275180/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "684fc71aa8964db2a1d9169596ea3d53",
+                "title": "UK inflation slows by less than expected to 3.2% in March",
+                "description": "Core inflation, which excludes energy, food and tobacco prices, also slowed to 4.2% from 4.5% in February.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-17T122123.146.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/commodities/uk-inflation-cpi-in-march-bank-of-england-boe-9275128/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "8c032d218b5f402db9189b11d2a13b44",
+                "title": "Asian stocks in mixed territory as US Federal Reserve hints later timeline for rate cuts",
+                "description": "The mixed reaction came after Federal Reserve Chairman Jerome Powell said at an event Tuesday that the central bank has been waiting to cut its main interest rate, which is at its highest level since 2001, because it first needs more confidence inflation is heading sustainably down to its 2% target.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-17T114819.662.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/market/asian-stocks-kospi-nikkei-us-federal-reserve-rate-cut-9275051/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "221a8821d1b941e89d06c007e4af6414",
+                "title": "US signals Venezuela oil sanctions relief at risk as deadline looms",
+                "description": "Barring any last-minute concessions by President Maduro, the US has made clear it is not likely to renew a six-month license that granted the OPEC member partial sanctions relief from October.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-17T111656.198.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/commodities/us-venezuela-oil-sanctions-relief-at-risk-opec-nicolas-maduro-9274982/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "2e9a60b4ce5f4ae6b9cdb170339922d3",
+                "title": "Domestic finished steel consumption grows 13% to 136 MT in FY24: SteelMint",
+                "description": "The country consumed 120 million tonne (MT) finished steel in the preceding 2022-23 financial year, the research firm said in a report.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Untitled-design-2024-04-17T105349.114.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/business/india-domestic-finished-steel-consumption-grow-in-fy24-steelmint-9274927/",
+                "category": "business",
+                "date": "April 17"
+            },
+            {
+                "id": "000969402df8479795da551729d43a5b",
+                "title": "IISER Mohali appoints BHU professor Anil Kumar Tripathi as new Director",
+                "description": "Prof. Tripathi was also the Director of the Institute of Science, BHU, from February 2019 to January 2024. He has been contributing significantly in various administrative as well as academic capacities in the university, besides leading several research projects.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/IISER-BHU.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/iiser-mohali-appoints-bhu-professor-anil-kumar-tripathi-as-new-director-9277847/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "838b69372d1c475ba1348f16d350c270",
+                "title": "Jharkhand Board 10th Result Date: When is JAC Matric results releasing?",
+                "description": "JAC Jharkhand Board 10th Result Date and Time: Once the Ranchi board announces the result in a press conference, it will be made available at the official website -- jacresults.com",
+                "urlToImage": "https://images.indianexpress.com/2024/04/JAC-Class-10.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/jharkhand-board-10th-result-date-time-to-check-jac-matric-scorecards-9244534/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "1ace2d1dc3a44a12a97b10b6acb97ca8",
+                "title": "WBJEE Admit card 2024 released; check how to download hall tickets",
+                "description": "WBJEE 2024 Admit Card: Once released, the candidates can download the hall tickets from the official website \u2014 wbjeeb.nic.in.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Wbjee-2024-admit-1.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/wbjee-admit-card-2024-released-check-how-to-download-hall-tickets-9271010/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "f43fe6f466364b8c94cbf458e81a4aeb",
+                "title": "UPSC Results 2023: More than 20 candidates from Uttar Pradesh\u2019s Abhyuday Coaching Centre qualify civil services exam",
+                "description": "The best performer among the students is Surabhi Srivastava, who secured an India rank of 56 in the exam, followed by Manisha Dhrve (257),\u00a0 Rishabh Bhat (363), Kshitij Aditya Sharma (384), Mudra Raheja (413), Jayvind Kumar Gupta (557) among others.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/UPSC_bbe997.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/upsc-results-2023-20-candidates-uttar-pradeshs-abhyuday-coaching-centre-qualify-civil-services-exam-9277342/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "728779c7d9064d70b9e3cce33d652ec4",
+                "title": "UPSC CSE 2023 Results: Check category-wise cut-off",
+                "description": "Cut-off for CS (Prelim) for the general category this time is 75.41, which is lower than 88.22 in 2022 and 87.54 in 2021.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/UPSC-Civil-Services-2023-cut-off.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/upsc-civil-services-cse-2023-cut-off-decrease-prelims-mains-9277564/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "44be463beac64c42a957315be90e5952",
+                "title": "PSEB Results: Punjab Board Class 10 topper wants to become plastic surgeon",
+                "description": "PSEB 10th Results 2023 Topper: Alisha Sharma, who secured the second position in the state, is also a student of the same school.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/pseb-topper-punjab.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/punjab-board-class-10-topper-wants-to-become-plastic-surgeon-pseb-ac-in-iindiaresult-9277577/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "e98fcc2ba1a24096bb42be27e464e464",
+                "title": "UPSC Results 2023: Three AMU\u2019s RCA students qualify civil services exam",
+                "description": "Zufishan Haque ranked 34 in the UPSC toppers list followed by Nazia Praveen (670) and Abdullah Zahid (744).\u00a0 The vice-chancellor of the University congratulated the toppers and stressed on to improve the results in the future.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/upsc-cse-2023-rsult-topper-amu-rca.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/upsc-results-2023-three-cse-students-aligarh-muslim-universitys-rca-9277272/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "c9bf7bc9c16c46e596cd3a29d13d79b1",
+                "title": "PSEB 10th Result 2024 Declared: 97.24%, girls perform better",
+                "description": "PSEB Class 10 Result 2024 Declared: Among all the district, Amritsar has the highest 99.24 per cent pass percentage while Fatehgarh Sahib has the lowest 94.51 per cent.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/pseb-class-10-result-2024-out.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/pseb-10th-result-2024-declared-toppers-list-9273183/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "2fa1088352444d369f0e9ba8ce9928ff",
+                "title": "Meet these children of Delhi Police officers who cracked UPSC civil services exam",
+                "description": "Daughter of Delhi Police assistant sub-inspector, Pratibha cracked the UPSC exam in her second attempt and aspires to be an IPS officer.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Unsplash-42-2.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/children-of-delhi-police-officers-who-cracked-upsc-civil-services-exam-9277180/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "8d6f12f20b9441a7a244302a6d55f8ca",
+                "title": "\u2018He touched my feet, didn\u2019t let me pay\u2019: Super 30 founder Anand Kumar meets his ex student in US",
+                "description": "\"He touched my feet and said that I am Sandeep Chaudhary, your student. Then what, he did not let me pay for the stuff at the mall.\" read Kumar's post.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/jee-anand-kumar-super-30.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/jeemain-anand-kumar-super-30-founder-meets-us-student-9277190/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "7c209dffac3f446781dde679af4d089b",
+                "title": "PSEB 10th Result 2024 (Out): How to check result tomorrow at pseb.ac.in",
+                "description": "PSEB Class 10th Result 2024: Candidates will be able to check Punjab Board 10th result at the official websites \u2013 pseb.ac.in and indiaresults.com.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/PSEB-Class-10.jpg?resize=450,253",
+                "url": "https://indianexpress.com/education/exams/pseb-punjab-board-10th-result-2024-how-to-check-marksheet-pseb-ac-in-9223961/",
+                "category": "exams",
+                "date": "April 18"
+            },
+            {
+                "id": "1ec41d6f4d2a43318bb60a9a600a592b",
+                "title": "AP POLYCET admit card released: Check steps to download hall ticket",
+                "description": "Interested candidates can download the admit card from the official websites - polycetap.nic.in.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Unsplash2_994f46.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/ap-polycet-2024-admit-card-how-to-download-hall-ticket-9277121/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "8886eaaccda24771af52ffe7376267ac",
+                "title": "AP EAPCET 2024 exam dates revised for engineering",
+                "description": "Interested candidates can check the exam schedule on the official website -- cets.apsche.ap.gov.in.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Unsplash1_c380fa.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/ap-eapcet-eamcet-2024-exam-date-revised-engineering-9277059/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "7c60939eaf134ca4a43c598aef897b0a",
+                "title": "PSEB 10th Result 2024 (Out): Link to be active tomorrow at pseb.ac.in",
+                "description": "PSEB Punjab Board 10th Result 2024: The scorecards will be available at the official PSEB website --pseb.ac.in, indiaresults.com.",
+                "urlToImage": "https://images.indianexpress.com/2024/03/Unsplash-1-23.jpg?resize=450,253",
+                "url": "https://indianexpress.com/education/exams/pseb-10th-result-2024-when-where-to-check-matric-score-pseb-ac-in-9222421/",
+                "category": "exams",
+                "date": "April 18"
+            },
+            {
+                "id": "56151c14f8784d5e8703bbf9239b3d50",
+                "title": "JEE Mains Session 2 Result Date 2024: When is NTA announcing session 2 scores?",
+                "description": "JEE Main 2024 Session 2 Result: The JEE Main 2024 result will be compiled based on the final answer key released. The NTA has already released the JEE Main provisional answer key.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/jeemain-result-1.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/jee-main-2024-session-2-result-final-answer-key-date-time-jeemain-nta-ac-in-9275656/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "17344824f43345a5b22b651360655c46",
+                "title": "PSEB 10th Result 2024 released, over 2.73 lakh students passed",
+                "description": "PSEB Punjab Board 10th Result Today: The result will first be announced in an official press conference, which will be held at the PSEB headquarters.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/PSEB-Class-10th-result-3.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/pseb-class-10-result-2024-today-check-scorecards-at-pseb-ac-in-indiaresults-com-9273947/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "bda5792f03f048f389ad01cb29c18cb2",
+                "title": "Not cleared UPSC Civil Services, here are some options for you",
+                "description": "Not making the final cut in UPSC shouldn't be seen as a failure but rather a selective redirection. Reaching the interview phase places you in the elite cadre of candidates, a feat in itself considering the minuscule success rate of about 0.1% to 0.4%.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/upsc-cse-2024-result.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/upsc-civil-services-2023-result-restart-or-look-for-other-options-9271172/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "7425ecee3c724218b129f5e05f6946b8",
+                "title": "ICSI CSEET July 2024 exam date announced; registration closes on June 15",
+                "description": "Eligible candidates interested in appearing in July exam can fill out the application by June 15. CSEET 2024 July application form is available at the official website -- icsi.edu.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Unsplash4_6aa6fb.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/icsi-cseet-july-2024-exam-date-registration-icsi-edu-9275848/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "4e393775412649458b9b6526111b1881",
+                "title": "\u2018Always an all-rounder\u2019: UPSC CSE AIR 4 Siddharth\u2019s mother on son\u2019s success",
+                "description": "\"It is a pleasant surprise. It gives us more happiness as we had no idea that he had appeared for the exams or cleared them. So this surprise increases our happiness,\" Siddharth's father told the media.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/upsc-cse-2023-topper-air-4-siddharth-ramkumar.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/upsc-cse-2023-topper-siddharth-ramkumar-upsc-gov-in-9275553/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "fdb4dec2abcf4b6d9aad17ad741580f1",
+                "title": "List of universities that have international campuses in Dubai",
+                "description": "Indian students can study in the Dubai campus of several global universities. Check the list here",
+                "urlToImage": "https://images.indianexpress.com/2023/08/Dubai-campus-international-universities.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/study-abroad/list-of-universities-that-have-international-campuses-in-dubai-8914602/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "0b2512fd1e97404a91a31d5d7940045f",
+                "title": "ICAI CA final, intermediate admit cards 2024 released; check steps to download",
+                "description": "ICAI CA Final, Intermediate Admit Cards 2024: Registered candidates can download their hall tickets from the official website \u2014 icai.org or icaiexam.icai.org",
+                "urlToImage": "https://images.indianexpress.com/2024/04/ICAI-CA-Admit-2024.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/icai-ca-final-intermediate-admit-cards-2024-released-icai-org-9275251/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "f6c8551e009b4ddb8cf7e0e01c0966d7",
+                "title": "UPSC Result: AIR 18 left corporate job to become an IFS officer",
+                "description": "UPSC Civil Services Exams: A total of 1,016 candidates -- 664 men and 352 women -- have qualified in the examination and have been recommended by the UPSC for appointment to various services.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/Unsplash-1-1.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/upsc-cse-result-2023-rank-18th-wardah-khan-ifs-9275528/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "47f4a2260fdf4a1186a1242dfb37bb96",
+                "title": "ICAI CA Admit Card Out: Websites to download hall tickets",
+                "description": "ICAI CA Admit card : To access ICAI CA Admit card, applicants who registered for the CA exam will have to login at the official websites -- icai.org or icai.nic.in -- with their registration numbers and roll numbers.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/ICAI-Admit-official-website.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/icai-ca-inter-final-admit-card-released-steps-to-download-icai-org-9275350/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "79e316d79b2a499bb3c6580aeec0fc47",
+                "title": "PSEB 10th Result 2024 (OUT) Live Updates: Result link to be active tomorrow",
+                "description": "PSEB Class 10th Result 2024 Live Updates: Punjab Board released the class 10th results, students will be able to check the scores at the official website -- pseb.ac.in.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/PSEB-Class-10th-result-5.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/pseb-10th-result-2024-live-updates-punjab-board-class-10-results-today-at-pseb-ac-in-indiaresults-com-9273873/",
+                "category": "education",
+                "date": "April 18"
+            },
+            {
+                "id": "0b0f23f127ba4795a62ea444cb75e76e",
+                "title": "UPSC Civil Services 2023 Results: How Kerala\u2019s Parvathy Gopakumar defied disability to achieve 282nd rank",
+                "description": "UPSC CSE 2023 Result: The UPSC announced the Civil Services exam result on April 16. As many as 1,016 candidates are recommended this year.",
+                "urlToImage": "https://images.indianexpress.com/2024/04/upsc-topper-282.jpg?resize=450,253",
+                "url": "https://indianexpress.com/article/education/upsc-civil-services-2023-result-kerala-parvathy-gopakumar-gets-282nd-rank-9275314/",
+                "category": "education",
+                "date": "April 18"
+            }
+        ]
+    }
+}

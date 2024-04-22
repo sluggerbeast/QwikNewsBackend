@@ -1,0 +1,5 @@
+newsapi.org
+API key: 578ee64b2fe8401a98ecea5c88e1048f
+
+to run the local server 
+python -m uvicorn main:app --reload

@@ -1,6 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
+import uuid
 import time  # For introducing delays between requests
+
+def extractCat(url):
+    url_parts = url.split("/")
+
+    # Extract the desired element (assuming "education" is the third element)
+    category = url_parts[4]
+    return category
 
 def parse_html_for_shorts(html_content):
     """
@@ -28,6 +36,9 @@ def parse_html_for_shorts(html_content):
         short_img_url = article.find('img')
         image_url = short_img_url.get('src')
         page_url = article.find("a",id="ie_shorts_readfull_h").get('href')
+        categoryUrl = article.get("data-url")
+        dateT = article.find("span",class_="shorts_published_detail").text.strip()
+        # print(dateT)
         # print(page_url)
           # Check if the 'src' attribute exists
             
@@ -35,10 +46,13 @@ def parse_html_for_shorts(html_content):
         # print(title_element)
         if title_element and content_element:
             scraped_data.append({
+                'id': uuid.uuid4().hex,
                 'title': title_element.text.strip(),
                 'description': content_element.text.strip(),
                 'urlToImage': image_url,
-                "url": page_url
+                "url": page_url,
+                "category": extractCat(categoryUrl),
+                "date":dateT.split(",")[0][9:]
             })
 
     #         # "articles": [
@@ -55,7 +69,7 @@ def parse_html_for_shorts(html_content):
 
     return scraped_data
 
-def fetch_html_source(url= "https://indianexpress.com/shorts/"):
+def fetch_html_sourceIE(url= "https://indianexpress.com/shorts/"):
   """
   Fetches the HTML source of a web page using its URL.
 
@@ -75,19 +89,11 @@ def fetch_html_source(url= "https://indianexpress.com/shorts/"):
     return None
 
 # Example usage
-url = "https://indianexpress.com/shorts/"
+# url = "https://indianexpress.com/shorts/"
 
-# print(html_content)
+# # print(html_content)
 
-data = fetch_html_source()
-print(type(data))
+# data = fetch_html_sourceIE()
+# print(data[0])
 
-# if data:
-#     for item in data:
-#         print(f"Title: {item['title']}")
-#         print(f"Content: {item['description']}")
-#         print(f"img:  {item['urlToImage']}")
-#         print(f"Page url {item["url"]}\n")
-#         print("-" * 40)
-# else:
-#     print("Parsing failed or no data found.")
+
